@@ -30,4 +30,4 @@ But we need to balance the dataset and make other necessary changes before going
 
 We have a dataset which is only 42% balanced.Thus, dataset is balanced.
 
-![Alt text](
+![Alt text](https://github.com/AnkitaPatsa/Coursera_Capstone/blob/main/Capture2.PNG)
