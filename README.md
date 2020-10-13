@@ -26,7 +26,8 @@ After analyzing the data set, I have decided to focus on only four features, sev
 
 But we need to balance the dataset and make other necessary changes before going on to predicting the severity.
 
-
+![Alt text](https://github.com/AnkitaPatsa/Coursera_Capstone/blob/main/Capture1.PNG)
 
 We have a dataset which is only 42% balanced.Thus, dataset is balanced.
 
+![Alt text](
