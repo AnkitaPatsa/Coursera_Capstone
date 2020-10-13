@@ -31,3 +31,5 @@ But we need to balance the dataset and make other necessary changes before going
 We have a dataset which is only 42% balanced.Thus, dataset is balanced.
 
 ![Alt text](https://github.com/AnkitaPatsa/Coursera_Capstone/blob/main/Capture2.PNG)
+
+We also have null values for some data which have to be removed and also the redundant attributes from the dataset.
