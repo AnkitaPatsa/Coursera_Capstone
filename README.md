@@ -24,4 +24,9 @@ The dataset in the original form is not ready for data analysis. In order to pre
 
 After analyzing the data set, I have decided to focus on only four features, severity, weather conditions, road conditions, and light conditions, among others.
 
-We must use label encoding to covert the features to our desired data type.
+But we need to balance the dataset and make other necessary changes before going on to predicting the severity.
+
+
+
+We have a dataset which is only 42% balanced.Thus, dataset is balanced.
+
